@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.2.9" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.2.9" pages="9">
   <diagram name="intro_egg" id="T-WQhoIOxYVZdL17rC1-">
     <mxGraphModel dx="922" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,6 +613,255 @@
         </mxCell>
         <mxCell id="pBpKjjhipSv_fU1lvR8f-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(168, 168, 255));&quot;&gt;m&lt;sup&gt;2&lt;/sup&gt;/s&lt;sup&gt;2&lt;/sup&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;align=center;strokeWidth=3;verticalAlign=middle;" vertex="1" parent="tVyXDmFr7gUWm2TTDow4-1">
           <mxGeometry x="540" y="103" width="70" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_XpjtdApT8L-u-UA7Jqj" name="unevaluated">
+    <mxGraphModel dx="922" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="170" y="181" width="249" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="539" y="370" width="241" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="10" y="380" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="287" y="380" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="90" y="20" width="289" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;/&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-7" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;2&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-8" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;x&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="308" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-9" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;*&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-10" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;+&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-9" target="AdQowIhCQOX1WWrAwIRf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="210" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-9" target="AdQowIhCQOX1WWrAwIRf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="130" as="sourcePoint" />
+            <mxPoint x="344.55999999999995" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-6" target="AdQowIhCQOX1WWrAwIRf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="310" as="sourcePoint" />
+            <mxPoint x="30" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.016;entryY=0.316;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-6" target="AdQowIhCQOX1WWrAwIRf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="290" as="sourcePoint" />
+            <mxPoint x="50" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.357;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-10" target="AdQowIhCQOX1WWrAwIRf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="138" y="290" as="sourcePoint" />
+            <mxPoint x="128" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-10" target="AdQowIhCQOX1WWrAwIRf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="366" y="290" as="sourcePoint" />
+            <mxPoint x="328" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-18" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;*&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="201" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.151;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-18" target="AdQowIhCQOX1WWrAwIRf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="366" y="290" as="sourcePoint" />
+            <mxPoint x="319" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.688;entryY=-0.034;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-18" target="AdQowIhCQOX1WWrAwIRf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266" y="291" as="sourcePoint" />
+            <mxPoint x="338" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-21" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;*&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="279" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.868;entryY=0.003;entryDx=0;entryDy=0;exitX=0.394;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-21" target="AdQowIhCQOX1WWrAwIRf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="130" as="sourcePoint" />
+            <mxPoint x="80" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="149" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="459" y="181" width="341" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-24" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;/&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479" y="201" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.009;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-24" target="AdQowIhCQOX1WWrAwIRf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397" y="290" as="sourcePoint" />
+            <mxPoint x="428.55999999999995" y="251.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-24" target="AdQowIhCQOX1WWrAwIRf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509" y="291" as="sourcePoint" />
+            <mxPoint x="422" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339" y="120" as="sourcePoint" />
+            <mxPoint x="489" y="181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-28" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;*&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="201" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.642;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-28" target="AdQowIhCQOX1WWrAwIRf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="320" />
+              <mxPoint x="490" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-30" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;/&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="559" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.991;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-30" target="AdQowIhCQOX1WWrAwIRf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="551" y="540.0009523809524" as="sourcePoint" />
+            <mxPoint x="419" y="545.2390476190476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-30" target="AdQowIhCQOX1WWrAwIRf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569" y="420" as="sourcePoint" />
+            <mxPoint x="416" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-28" target="AdQowIhCQOX1WWrAwIRf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397" y="290" as="sourcePoint" />
+            <mxPoint x="387" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-34" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-35" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-36" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;2&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="201" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="367" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-38" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="740" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="AdQowIhCQOX1WWrAwIRf-40" target="AdQowIhCQOX1WWrAwIRf-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-40" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;6&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="760" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-41" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;5&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="379" y="261" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-42" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;background-color: rgb(71, 175, 255); font-size: 18px;&quot;&gt;7&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="339" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdQowIhCQOX1WWrAwIRf-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="10" width="357" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-2" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;id&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470.76" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Fitness&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="511.76" y="30" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-6" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470.76" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;2.31&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="511.76" y="70" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-8" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470.76" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;1.54&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="511.76" y="110" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-10" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="582.76" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;--&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="623.76" y="30" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-12" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="582.76" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;--&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="623.76" y="70" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-14" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;5&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="582.76" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;--&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="623.76" y="110" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-16" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;6&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="694.76" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;1.11&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="735.76" y="30" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-18" value="&lt;b style=&quot;color: rgb(32, 33, 34); font-family: &amp;quot;SBL BibLit&amp;quot;, &amp;quot;SBL Greek&amp;quot;, &amp;quot;New Athena Unicode&amp;quot;, &amp;quot;EB Garamond&amp;quot;, &amp;quot;EB Garamond 12&amp;quot;, &amp;quot;Foulis Greek&amp;quot;, &amp;quot;Garamond Libre&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Noto Serif&amp;quot;, Cardo, &amp;quot;Gentium Plus&amp;quot;, &amp;quot;Gentium Book Plus&amp;quot;, Garamond, &amp;quot;Palatino Linotype&amp;quot;, &amp;quot;DejaVu Sans&amp;quot;, &amp;quot;DejaVu Serif&amp;quot;, FreeSerif, FreeSans, &amp;quot;Arial Unicode MS&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, Code2000, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 18px; background-color: rgb(71, 175, 255);&quot;&gt;7&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="694.76" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;0.31&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="735.76" y="70" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#47AFFF;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="694.76" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJo2zcNVvocbZglXWFJf-21" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#36393d;strokeWidth=1;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="735.76" y="110" width="71" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

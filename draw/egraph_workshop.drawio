@@ -1269,7 +1269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Perturb" id="jwdjoDUU6ONkfHavdYRS">
-    <mxGraphModel dx="922" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1ydDz8Z_Jt8AllVdbQWp-0" />
         <mxCell id="1ydDz8Z_Jt8AllVdbQWp-1" parent="1ydDz8Z_Jt8AllVdbQWp-0" />
@@ -1404,7 +1404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="evaluate" id="enrapITkQdINxogMEvo6">
-    <mxGraphModel dx="922" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="f08Us5y-Actku6oyHwgL-0" />
         <mxCell id="f08Us5y-Actku6oyHwgL-1" parent="f08Us5y-Actku6oyHwgL-0" />
@@ -1530,7 +1530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="insert" id="9AlpMLk0h-3E5pW9duQ5">
-    <mxGraphModel dx="922" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MV7Btbuq6Sn9QtOWiIa8-0" />
         <mxCell id="MV7Btbuq6Sn9QtOWiIa8-1" parent="MV7Btbuq6Sn9QtOWiIa8-0" />
@@ -1668,7 +1668,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="eqsat" id="PW9GRjc1Mfh42WInwyCC">
-    <mxGraphModel dx="922" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jzMIi0bXme4LvywnIWEW-0" />
         <mxCell id="jzMIi0bXme4LvywnIWEW-1" parent="jzMIi0bXme4LvywnIWEW-0" />
